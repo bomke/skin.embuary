@@ -2,6 +2,7 @@
 <window>
 	<defaultcontrol>11</defaultcontrol>
 	<controls>
+	<include>PVRChannelNumberInput</include>
 		<control type="group">
 			<control type="image">
 				<include>Visible_Fade</include>
